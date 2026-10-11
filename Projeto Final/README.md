@@ -1,1 +1,1 @@
-
+Desenvolvido no Power BI como desafio final do bootcamp, este Relatório de Vendas traz o redesenho de um painel financeiro com foco na usabilidade e visualização de dados. O projeto buscou otimizar a distribuição das informações para facilitar a navegação e a localização imediata dos principais KPIs, utilizando técnicas avançadas de posicionamento, contraste cromático, proporção áurea e filtros dinâmicos.
